@@ -2,6 +2,7 @@ GraphiQL.app
 ------------
 
 [![Build Status](https://travis-ci.org/skevy/graphiql-app.svg?branch=master)](https://travis-ci.org/skevy/graphiql-app)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDaddycal69%2Fgraphiql-app.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FDaddycal69%2Fgraphiql-app?ref=badge_shield)
 
 A light, Electron-based wrapper around GraphiQL.
 
@@ -36,3 +37,7 @@ Then simply execute the app. It will ask whether to add shortcuts to your deskto
 - install all the require packages: `npm i`
 - build the project: `npm run build`
 - start the project: `npm start`
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FDaddycal69%2Fgraphiql-app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FDaddycal69%2Fgraphiql-app?ref=badge_large)
